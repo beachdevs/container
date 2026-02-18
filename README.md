@@ -1,4 +1,13 @@
-# Sandbox CLI
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="box.png" alt="Container Box" width="84" height="84" />
+    </td>
+    <td valign="middle">
+      <h1>Container CLI</h1>
+    </td>
+  </tr>
+</table>
 
 Small CLI for creating and managing Apple `container` sandboxes.
 
