@@ -4,7 +4,7 @@
       <img src="box.png" alt="Container Box" width="84" height="84" />
     </td>
     <td valign="middle">
-      <h1>Container CLI</h1>
+      <h3>Container CLI</h3>
     </td>
   </tr>
 </table>
