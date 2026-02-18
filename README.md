@@ -2,7 +2,7 @@
 
 Small CLI for creating and managing Apple `container` sandboxes.
 
-Made as a helper for developing Openclaw or other tools where you need to 
+Made as a helper for developing Openclaw-like or other tools where you need to 
 make and manage multiple containers at runtime with minimal instructions.
 
 For simple use cases, 
